@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1496371416 source:c:\users\tanya\downloads\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1496369103 c:\users\tanya\downloads\tp_3_cascara\tp_3_cascara\funciones.h
+
+1496369509 source:c:\users\tanya\downloads\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1496450955 source:c:\users\tanya\desktop\tp_3_\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1496454590 c:\users\tanya\desktop\tp_3_\tp_3_cascara\funciones.h
+
+1496455798 source:c:\users\tanya\desktop\tp_3_\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
